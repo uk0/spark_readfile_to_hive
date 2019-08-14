@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 02 11:54:07 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0168-ac57-9340-00000b125368 
+on database directory /Users/zhangjianxin/Desktop/works/ORC2PREQUET/metastore_db with class loader sun.misc.Launcher$AppClassLoader@4361bd48 
+Loaded from file:/Users/zhangjianxin/spark/spark-2.4.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b16
+user.dir=/Users/zhangjianxin/Desktop/works/ORC2PREQUET
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
